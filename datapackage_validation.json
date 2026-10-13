@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.146,
+  "time": 0.118,
   "errors": [],
   "tasks": [
     {
@@ -82,7 +82,7 @@
           "rows": 695
         }
       },
-      "time": 0.061,
+      "time": 0.047,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -20606,7 +20606,7 @@
           "rows": 0
         }
       },
-      "time": 0.062,
+      "time": 0.051,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -23290,9 +23290,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 17,
           "rowPosition": 18,
@@ -23320,9 +23320,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 17,
           "rowPosition": 18,
@@ -23350,9 +23350,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 17,
           "rowPosition": 18,
@@ -23368,7 +23368,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "112,0",
+          "cell": "0,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -23380,9 +23380,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 17,
           "rowPosition": 18,
@@ -23394,11 +23394,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"112,0\" in row \"18\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"0,0\" in row \"18\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "0,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -23410,9 +23410,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 17,
           "rowPosition": 18,
@@ -23440,9 +23440,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "222,0",
-            "17,78",
-            "23,0"
+            "2,0",
+            "0,16",
+            "0,0"
           ],
           "rowNumber": 18,
           "rowPosition": 19,
@@ -23470,9 +23470,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "222,0",
-            "17,78",
-            "23,0"
+            "2,0",
+            "0,16",
+            "0,0"
           ],
           "rowNumber": 18,
           "rowPosition": 19,
@@ -23500,9 +23500,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "222,0",
-            "17,78",
-            "23,0"
+            "2,0",
+            "0,16",
+            "0,0"
           ],
           "rowNumber": 18,
           "rowPosition": 19,
@@ -23518,7 +23518,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "222,0",
+          "cell": "2,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -23530,9 +23530,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "222,0",
-            "17,78",
-            "23,0"
+            "2,0",
+            "0,16",
+            "0,0"
           ],
           "rowNumber": 18,
           "rowPosition": 19,
@@ -23544,11 +23544,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"222,0\" in row \"19\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"19\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23,0",
+          "cell": "0,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -23560,9 +23560,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "222,0",
-            "17,78",
-            "23,0"
+            "2,0",
+            "0,16",
+            "0,0"
           ],
           "rowNumber": 18,
           "rowPosition": 19,
@@ -23590,9 +23590,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "273,0",
-            "41,1",
-            "16,0"
+            "13,0",
+            "1,95",
+            "1,0"
           ],
           "rowNumber": 19,
           "rowPosition": 20,
@@ -23620,9 +23620,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "273,0",
-            "41,1",
-            "16,0"
+            "13,0",
+            "1,95",
+            "1,0"
           ],
           "rowNumber": 19,
           "rowPosition": 20,
@@ -23650,9 +23650,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "273,0",
-            "41,1",
-            "16,0"
+            "13,0",
+            "1,95",
+            "1,0"
           ],
           "rowNumber": 19,
           "rowPosition": 20,
@@ -23668,7 +23668,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "273,0",
+          "cell": "13,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -23680,9 +23680,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "273,0",
-            "41,1",
-            "16,0"
+            "13,0",
+            "1,95",
+            "1,0"
           ],
           "rowNumber": 19,
           "rowPosition": 20,
@@ -23694,11 +23694,41 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"273,0\" in row \"20\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"13,0\" in row \"20\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16,0",
+          "cell": "1,95",
+          "fieldName": "obitos_esperados",
+          "fieldNumber": 9,
+          "fieldPosition": 9,
+          "cells": [
+            "01/2019",
+            "HJK",
+            "2019,0",
+            "1,0",
+            "III",
+            "10 a 14",
+            "15,0",
+            "13,0",
+            "1,95",
+            "1,0"
+          ],
+          "rowNumber": 19,
+          "rowPosition": 20,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"geopoint/default\"",
+          "message": "Type error in the cell \"1,95\" in row \"20\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "1,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -23710,9 +23740,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "273,0",
-            "41,1",
-            "16,0"
+            "13,0",
+            "1,95",
+            "1,0"
           ],
           "rowNumber": 19,
           "rowPosition": 20,
@@ -23740,9 +23770,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "275,0",
-            "68,85",
-            "36,0"
+            "22,0",
+            "5,5",
+            "4,0"
           ],
           "rowNumber": 20,
           "rowPosition": 21,
@@ -23770,9 +23800,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "275,0",
-            "68,85",
-            "36,0"
+            "22,0",
+            "5,5",
+            "4,0"
           ],
           "rowNumber": 20,
           "rowPosition": 21,
@@ -23800,9 +23830,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "275,0",
-            "68,85",
-            "36,0"
+            "22,0",
+            "5,5",
+            "4,0"
           ],
           "rowNumber": 20,
           "rowPosition": 21,
@@ -23818,7 +23848,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "275,0",
+          "cell": "22,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -23830,9 +23860,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "275,0",
-            "68,85",
-            "36,0"
+            "22,0",
+            "5,5",
+            "4,0"
           ],
           "rowNumber": 20,
           "rowPosition": 21,
@@ -23844,11 +23874,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"275,0\" in row \"21\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"22,0\" in row \"21\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "36,0",
+          "cell": "4,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -23860,9 +23890,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "275,0",
-            "68,85",
-            "36,0"
+            "22,0",
+            "5,5",
+            "4,0"
           ],
           "rowNumber": 20,
           "rowPosition": 21,
@@ -23890,9 +23920,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 21,
           "rowPosition": 22,
@@ -23920,9 +23950,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 21,
           "rowPosition": 22,
@@ -23950,9 +23980,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 21,
           "rowPosition": 22,
@@ -23968,7 +23998,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "167,0",
+          "cell": "10,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -23980,9 +24010,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 21,
           "rowPosition": 22,
@@ -23994,11 +24024,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"167,0\" in row \"22\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"22\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "35,0",
+          "cell": "2,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -24010,9 +24040,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 21,
           "rowPosition": 22,
@@ -24040,9 +24070,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "77,0",
-            "42,45",
-            "27,0"
+            "6,0",
+            "3,3",
+            "3,0"
           ],
           "rowNumber": 22,
           "rowPosition": 23,
@@ -24070,9 +24100,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "77,0",
-            "42,45",
-            "27,0"
+            "6,0",
+            "3,3",
+            "3,0"
           ],
           "rowNumber": 22,
           "rowPosition": 23,
@@ -24100,9 +24130,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "77,0",
-            "42,45",
-            "27,0"
+            "6,0",
+            "3,3",
+            "3,0"
           ],
           "rowNumber": 22,
           "rowPosition": 23,
@@ -24118,7 +24148,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "77,0",
+          "cell": "6,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -24130,9 +24160,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "77,0",
-            "42,45",
-            "27,0"
+            "6,0",
+            "3,3",
+            "3,0"
           ],
           "rowNumber": 22,
           "rowPosition": 23,
@@ -24144,11 +24174,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"77,0\" in row \"23\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"6,0\" in row \"23\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "27,0",
+          "cell": "3,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -24160,9 +24190,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "77,0",
-            "42,45",
-            "27,0"
+            "6,0",
+            "3,3",
+            "3,0"
           ],
           "rowNumber": 22,
           "rowPosition": 23,
@@ -24190,9 +24220,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "43,0",
-            "32,35",
-            "20,0"
+            "5,0",
+            "3,75",
+            "2,0"
           ],
           "rowNumber": 23,
           "rowPosition": 24,
@@ -24220,9 +24250,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "43,0",
-            "32,35",
-            "20,0"
+            "5,0",
+            "3,75",
+            "2,0"
           ],
           "rowNumber": 23,
           "rowPosition": 24,
@@ -24250,9 +24280,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "43,0",
-            "32,35",
-            "20,0"
+            "5,0",
+            "3,75",
+            "2,0"
           ],
           "rowNumber": 23,
           "rowPosition": 24,
@@ -24268,7 +24298,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "43,0",
+          "cell": "5,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -24280,9 +24310,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "43,0",
-            "32,35",
-            "20,0"
+            "5,0",
+            "3,75",
+            "2,0"
           ],
           "rowNumber": 23,
           "rowPosition": 24,
@@ -24294,11 +24324,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"43,0\" in row \"24\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"24\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "20,0",
+          "cell": "2,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -24310,9 +24340,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "43,0",
-            "32,35",
-            "20,0"
+            "5,0",
+            "3,75",
+            "2,0"
           ],
           "rowNumber": 23,
           "rowPosition": 24,
@@ -24340,9 +24370,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "23,0",
-            "19,65",
-            "18,0"
+            "4,0",
+            "3,4",
+            "3,0"
           ],
           "rowNumber": 24,
           "rowPosition": 25,
@@ -24370,9 +24400,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "23,0",
-            "19,65",
-            "18,0"
+            "4,0",
+            "3,4",
+            "3,0"
           ],
           "rowNumber": 24,
           "rowPosition": 25,
@@ -24400,9 +24430,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "23,0",
-            "19,65",
-            "18,0"
+            "4,0",
+            "3,4",
+            "3,0"
           ],
           "rowNumber": 24,
           "rowPosition": 25,
@@ -24418,7 +24448,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23,0",
+          "cell": "4,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -24430,9 +24460,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "23,0",
-            "19,65",
-            "18,0"
+            "4,0",
+            "3,4",
+            "3,0"
           ],
           "rowNumber": 24,
           "rowPosition": 25,
@@ -24444,11 +24474,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"23,0\" in row \"25\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"25\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "18,0",
+          "cell": "3,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -24460,9 +24490,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "23,0",
-            "19,65",
-            "18,0"
+            "4,0",
+            "3,4",
+            "3,0"
           ],
           "rowNumber": 24,
           "rowPosition": 25,
@@ -32890,9 +32920,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 81,
           "rowPosition": 82,
@@ -32920,9 +32950,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 81,
           "rowPosition": 82,
@@ -32950,9 +32980,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 81,
           "rowPosition": 82,
@@ -32968,7 +32998,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "112,0",
+          "cell": "0,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -32980,9 +33010,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 81,
           "rowPosition": 82,
@@ -32994,11 +33024,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"112,0\" in row \"82\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"0,0\" in row \"82\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "0,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33010,9 +33040,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 81,
           "rowPosition": 82,
@@ -33040,9 +33070,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "224,0",
-            "17,939999999999998",
-            "23,0"
+            "4,0",
+            "0,32",
+            "0,0"
           ],
           "rowNumber": 82,
           "rowPosition": 83,
@@ -33070,9 +33100,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "224,0",
-            "17,939999999999998",
-            "23,0"
+            "4,0",
+            "0,32",
+            "0,0"
           ],
           "rowNumber": 82,
           "rowPosition": 83,
@@ -33100,9 +33130,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "224,0",
-            "17,939999999999998",
-            "23,0"
+            "4,0",
+            "0,32",
+            "0,0"
           ],
           "rowNumber": 82,
           "rowPosition": 83,
@@ -33118,7 +33148,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "224,0",
+          "cell": "4,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -33130,9 +33160,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "224,0",
-            "17,939999999999998",
-            "23,0"
+            "4,0",
+            "0,32",
+            "0,0"
           ],
           "rowNumber": 82,
           "rowPosition": 83,
@@ -33144,41 +33174,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"224,0\" in row \"83\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"83\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,939999999999998",
-          "fieldName": "obitos_esperados",
-          "fieldNumber": 9,
-          "fieldPosition": 9,
-          "cells": [
-            "02/2019",
-            "HJK",
-            "2019,0",
-            "2,0",
-            "II",
-            "5 a 9",
-            "8,0",
-            "224,0",
-            "17,939999999999998",
-            "23,0"
-          ],
-          "rowNumber": 82,
-          "rowPosition": 83,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"17,939999999999998\" in row \"83\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "23,0",
+          "cell": "0,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33190,9 +33190,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "224,0",
-            "17,939999999999998",
-            "23,0"
+            "4,0",
+            "0,32",
+            "0,0"
           ],
           "rowNumber": 82,
           "rowPosition": 83,
@@ -33220,9 +33220,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "17,0"
+            "23,0",
+            "3,45",
+            "2,0"
           ],
           "rowNumber": 83,
           "rowPosition": 84,
@@ -33250,9 +33250,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "17,0"
+            "23,0",
+            "3,45",
+            "2,0"
           ],
           "rowNumber": 83,
           "rowPosition": 84,
@@ -33280,9 +33280,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "17,0"
+            "23,0",
+            "3,45",
+            "2,0"
           ],
           "rowNumber": 83,
           "rowPosition": 84,
@@ -33298,7 +33298,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "283,0",
+          "cell": "23,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -33310,9 +33310,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "17,0"
+            "23,0",
+            "3,45",
+            "2,0"
           ],
           "rowNumber": 83,
           "rowPosition": 84,
@@ -33324,11 +33324,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"283,0\" in row \"84\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"23,0\" in row \"84\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "17,0",
+          "cell": "2,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33340,9 +33340,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "17,0"
+            "23,0",
+            "3,45",
+            "2,0"
           ],
           "rowNumber": 83,
           "rowPosition": 84,
@@ -33370,9 +33370,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "272,0",
-            "68,1",
-            "33,0"
+            "19,0",
+            "4,75",
+            "1,0"
           ],
           "rowNumber": 84,
           "rowPosition": 85,
@@ -33400,9 +33400,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "272,0",
-            "68,1",
-            "33,0"
+            "19,0",
+            "4,75",
+            "1,0"
           ],
           "rowNumber": 84,
           "rowPosition": 85,
@@ -33430,9 +33430,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "272,0",
-            "68,1",
-            "33,0"
+            "19,0",
+            "4,75",
+            "1,0"
           ],
           "rowNumber": 84,
           "rowPosition": 85,
@@ -33448,7 +33448,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "272,0",
+          "cell": "19,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -33460,9 +33460,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "272,0",
-            "68,1",
-            "33,0"
+            "19,0",
+            "4,75",
+            "1,0"
           ],
           "rowNumber": 84,
           "rowPosition": 85,
@@ -33474,11 +33474,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"272,0\" in row \"85\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"19,0\" in row \"85\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "33,0",
+          "cell": "1,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33490,9 +33490,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "272,0",
-            "68,1",
-            "33,0"
+            "19,0",
+            "4,75",
+            "1,0"
           ],
           "rowNumber": 84,
           "rowPosition": 85,
@@ -33520,9 +33520,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 85,
           "rowPosition": 86,
@@ -33550,9 +33550,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 85,
           "rowPosition": 86,
@@ -33580,9 +33580,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 85,
           "rowPosition": 86,
@@ -33598,7 +33598,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "167,0",
+          "cell": "10,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -33610,9 +33610,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 85,
           "rowPosition": 86,
@@ -33624,11 +33624,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"167,0\" in row \"86\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"10,0\" in row \"86\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "35,0",
+          "cell": "2,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33640,9 +33640,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "167,0",
-            "66,8",
-            "35,0"
+            "10,0",
+            "4,0",
+            "2,0"
           ],
           "rowNumber": 85,
           "rowPosition": 86,
@@ -33670,9 +33670,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "79,0",
-            "43,55",
-            "26,0"
+            "8,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 86,
           "rowPosition": 87,
@@ -33700,9 +33700,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "79,0",
-            "43,55",
-            "26,0"
+            "8,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 86,
           "rowPosition": 87,
@@ -33730,9 +33730,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "79,0",
-            "43,55",
-            "26,0"
+            "8,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 86,
           "rowPosition": 87,
@@ -33748,7 +33748,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "79,0",
+          "cell": "8,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -33760,9 +33760,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "79,0",
-            "43,55",
-            "26,0"
+            "8,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 86,
           "rowPosition": 87,
@@ -33774,11 +33774,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"79,0\" in row \"87\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"8,0\" in row \"87\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "26,0",
+          "cell": "2,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33790,9 +33790,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "79,0",
-            "43,55",
-            "26,0"
+            "8,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 86,
           "rowPosition": 87,
@@ -33820,9 +33820,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "42,0",
-            "31,6",
-            "19,0"
+            "4,0",
+            "3,0",
+            "1,0"
           ],
           "rowNumber": 87,
           "rowPosition": 88,
@@ -33850,9 +33850,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "42,0",
-            "31,6",
-            "19,0"
+            "4,0",
+            "3,0",
+            "1,0"
           ],
           "rowNumber": 87,
           "rowPosition": 88,
@@ -33880,9 +33880,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "42,0",
-            "31,6",
-            "19,0"
+            "4,0",
+            "3,0",
+            "1,0"
           ],
           "rowNumber": 87,
           "rowPosition": 88,
@@ -33898,7 +33898,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "42,0",
+          "cell": "4,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -33910,9 +33910,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "42,0",
-            "31,6",
-            "19,0"
+            "4,0",
+            "3,0",
+            "1,0"
           ],
           "rowNumber": 87,
           "rowPosition": 88,
@@ -33924,11 +33924,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"42,0\" in row \"88\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"4,0\" in row \"88\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "19,0",
+          "cell": "1,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -33940,9 +33940,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "42,0",
-            "31,6",
-            "19,0"
+            "4,0",
+            "3,0",
+            "1,0"
           ],
           "rowNumber": 87,
           "rowPosition": 88,
@@ -33970,9 +33970,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "24,0",
-            "20,5",
-            "16,0"
+            "5,0",
+            "4,25",
+            "1,0"
           ],
           "rowNumber": 88,
           "rowPosition": 89,
@@ -34000,9 +34000,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "24,0",
-            "20,5",
-            "16,0"
+            "5,0",
+            "4,25",
+            "1,0"
           ],
           "rowNumber": 88,
           "rowPosition": 89,
@@ -34030,9 +34030,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "24,0",
-            "20,5",
-            "16,0"
+            "5,0",
+            "4,25",
+            "1,0"
           ],
           "rowNumber": 88,
           "rowPosition": 89,
@@ -34048,7 +34048,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "24,0",
+          "cell": "5,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -34060,9 +34060,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "24,0",
-            "20,5",
-            "16,0"
+            "5,0",
+            "4,25",
+            "1,0"
           ],
           "rowNumber": 88,
           "rowPosition": 89,
@@ -34074,11 +34074,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"24,0\" in row \"89\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"5,0\" in row \"89\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16,0",
+          "cell": "1,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -34090,9 +34090,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "24,0",
-            "20,5",
-            "16,0"
+            "5,0",
+            "4,25",
+            "1,0"
           ],
           "rowNumber": 88,
           "rowPosition": 89,
@@ -42520,9 +42520,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 145,
           "rowPosition": 146,
@@ -42550,9 +42550,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 145,
           "rowPosition": 146,
@@ -42580,9 +42580,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 145,
           "rowPosition": 146,
@@ -42598,7 +42598,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "112,0",
+          "cell": "0,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -42610,9 +42610,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 145,
           "rowPosition": 146,
@@ -42624,11 +42624,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"112,0\" in row \"146\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"0,0\" in row \"146\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "8,0",
+          "cell": "0,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -42640,9 +42640,9 @@
             "I",
             "0 a 4",
             "4,0",
-            "112,0",
-            "4,5",
-            "8,0"
+            "0,0",
+            "0,0",
+            "0,0"
           ],
           "rowNumber": 145,
           "rowPosition": 146,
@@ -42670,9 +42670,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "227,0",
-            "18,18",
-            "23,0"
+            "7,0",
+            "0,56",
+            "0,0"
           ],
           "rowNumber": 146,
           "rowPosition": 147,
@@ -42700,9 +42700,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "227,0",
-            "18,18",
-            "23,0"
+            "7,0",
+            "0,56",
+            "0,0"
           ],
           "rowNumber": 146,
           "rowPosition": 147,
@@ -42730,9 +42730,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "227,0",
-            "18,18",
-            "23,0"
+            "7,0",
+            "0,56",
+            "0,0"
           ],
           "rowNumber": 146,
           "rowPosition": 147,
@@ -42748,7 +42748,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "227,0",
+          "cell": "7,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -42760,9 +42760,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "227,0",
-            "18,18",
-            "23,0"
+            "7,0",
+            "0,56",
+            "0,0"
           ],
           "rowNumber": 146,
           "rowPosition": 147,
@@ -42774,11 +42774,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"227,0\" in row \"147\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"7,0\" in row \"147\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "23,0",
+          "cell": "0,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -42790,9 +42790,9 @@
             "II",
             "5 a 9",
             "8,0",
-            "227,0",
-            "18,18",
-            "23,0"
+            "7,0",
+            "0,56",
+            "0,0"
           ],
           "rowNumber": 146,
           "rowPosition": 147,
@@ -42820,9 +42820,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "16,0"
+            "23,0",
+            "3,45",
+            "1,0"
           ],
           "rowNumber": 147,
           "rowPosition": 148,
@@ -42850,9 +42850,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "16,0"
+            "23,0",
+            "3,45",
+            "1,0"
           ],
           "rowNumber": 147,
           "rowPosition": 148,
@@ -42880,9 +42880,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "16,0"
+            "23,0",
+            "3,45",
+            "1,0"
           ],
           "rowNumber": 147,
           "rowPosition": 148,
@@ -42898,7 +42898,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "283,0",
+          "cell": "23,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -42910,9 +42910,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "16,0"
+            "23,0",
+            "3,45",
+            "1,0"
           ],
           "rowNumber": 147,
           "rowPosition": 148,
@@ -42924,11 +42924,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"283,0\" in row \"148\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"23,0\" in row \"148\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16,0",
+          "cell": "1,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -42940,9 +42940,9 @@
             "III",
             "10 a 14",
             "15,0",
-            "283,0",
-            "42,6",
-            "16,0"
+            "23,0",
+            "3,45",
+            "1,0"
           ],
           "rowNumber": 147,
           "rowPosition": 148,
@@ -42970,9 +42970,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "270,0",
-            "67,6",
-            "34,0"
+            "17,0",
+            "4,25",
+            "2,0"
           ],
           "rowNumber": 148,
           "rowPosition": 149,
@@ -43000,9 +43000,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "270,0",
-            "67,6",
-            "34,0"
+            "17,0",
+            "4,25",
+            "2,0"
           ],
           "rowNumber": 148,
           "rowPosition": 149,
@@ -43030,9 +43030,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "270,0",
-            "67,6",
-            "34,0"
+            "17,0",
+            "4,25",
+            "2,0"
           ],
           "rowNumber": 148,
           "rowPosition": 149,
@@ -43048,7 +43048,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "270,0",
+          "cell": "17,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -43060,9 +43060,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "270,0",
-            "67,6",
-            "34,0"
+            "17,0",
+            "4,25",
+            "2,0"
           ],
           "rowNumber": 148,
           "rowPosition": 149,
@@ -43074,11 +43074,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"270,0\" in row \"149\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"17,0\" in row \"149\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "34,0",
+          "cell": "2,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -43090,9 +43090,9 @@
             "IV",
             "15 a 19",
             "25,0",
-            "270,0",
-            "67,6",
-            "34,0"
+            "17,0",
+            "4,25",
+            "2,0"
           ],
           "rowNumber": 148,
           "rowPosition": 149,
@@ -43120,9 +43120,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "168,0",
-            "67,2",
-            "35,0"
+            "11,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 149,
           "rowPosition": 150,
@@ -43150,9 +43150,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "168,0",
-            "67,2",
-            "35,0"
+            "11,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 149,
           "rowPosition": 150,
@@ -43180,9 +43180,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "168,0",
-            "67,2",
-            "35,0"
+            "11,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 149,
           "rowPosition": 150,
@@ -43198,7 +43198,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "168,0",
+          "cell": "11,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -43210,9 +43210,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "168,0",
-            "67,2",
-            "35,0"
+            "11,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 149,
           "rowPosition": 150,
@@ -43224,11 +43224,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"168,0\" in row \"150\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"11,0\" in row \"150\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "35,0",
+          "cell": "2,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -43240,9 +43240,9 @@
             "V",
             "20 a 24",
             "40,0",
-            "168,0",
-            "67,2",
-            "35,0"
+            "11,0",
+            "4,4",
+            "2,0"
           ],
           "rowNumber": 149,
           "rowPosition": 150,
@@ -43270,9 +43270,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "80,0",
-            "44,099999999999994",
-            "27,0"
+            "9,0",
+            "4,95",
+            "3,0"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -43300,9 +43300,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "80,0",
-            "44,099999999999994",
-            "27,0"
+            "9,0",
+            "4,95",
+            "3,0"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -43330,9 +43330,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "80,0",
-            "44,099999999999994",
-            "27,0"
+            "9,0",
+            "4,95",
+            "3,0"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -43348,7 +43348,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "80,0",
+          "cell": "9,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -43360,9 +43360,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "80,0",
-            "44,099999999999994",
-            "27,0"
+            "9,0",
+            "4,95",
+            "3,0"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -43374,11 +43374,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"80,0\" in row \"151\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"9,0\" in row \"151\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "44,099999999999994",
+          "cell": "4,95",
           "fieldName": "obitos_esperados",
           "fieldNumber": 9,
           "fieldPosition": 9,
@@ -43390,9 +43390,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "80,0",
-            "44,099999999999994",
-            "27,0"
+            "9,0",
+            "4,95",
+            "3,0"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -43404,11 +43404,11 @@
             "#cell"
           ],
           "note": "type is \"geopoint/default\"",
-          "message": "Type error in the cell \"44,099999999999994\" in row \"151\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
+          "message": "Type error in the cell \"4,95\" in row \"151\" and field \"obitos_esperados\" at position \"9\": type is \"geopoint/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "27,0",
+          "cell": "3,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -43420,9 +43420,9 @@
             "VI",
             "25 a 29",
             "55,0",
-            "80,0",
-            "44,099999999999994",
-            "27,0"
+            "9,0",
+            "4,95",
+            "3,0"
           ],
           "rowNumber": 150,
           "rowPosition": 151,
@@ -43450,9 +43450,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "40,0",
-            "30,1",
-            "19,0"
+            "2,0",
+            "1,5",
+            "1,0"
           ],
           "rowNumber": 151,
           "rowPosition": 152,
@@ -43480,9 +43480,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "40,0",
-            "30,1",
-            "19,0"
+            "2,0",
+            "1,5",
+            "1,0"
           ],
           "rowNumber": 151,
           "rowPosition": 152,
@@ -43510,9 +43510,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "40,0",
-            "30,1",
-            "19,0"
+            "2,0",
+            "1,5",
+            "1,0"
           ],
           "rowNumber": 151,
           "rowPosition": 152,
@@ -43528,7 +43528,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "40,0",
+          "cell": "2,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -43540,9 +43540,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "40,0",
-            "30,1",
-            "19,0"
+            "2,0",
+            "1,5",
+            "1,0"
           ],
           "rowNumber": 151,
           "rowPosition": 152,
@@ -43554,11 +43554,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"40,0\" in row \"152\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"2,0\" in row \"152\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "19,0",
+          "cell": "1,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -43570,9 +43570,9 @@
             "VII",
             "30 a 34",
             "75,0",
-            "40,0",
-            "30,1",
-            "19,0"
+            "2,0",
+            "1,5",
+            "1,0"
           ],
           "rowNumber": 151,
           "rowPosition": 152,
@@ -43600,9 +43600,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "20,0",
-            "17,1",
-            "16,0"
+            "1,0",
+            "0,85",
+            "1,0"
           ],
           "rowNumber": 152,
           "rowPosition": 153,
@@ -43630,9 +43630,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "20,0",
-            "17,1",
-            "16,0"
+            "1,0",
+            "0,85",
+            "1,0"
           ],
           "rowNumber": 152,
           "rowPosition": 153,
@@ -43660,9 +43660,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "20,0",
-            "17,1",
-            "16,0"
+            "1,0",
+            "0,85",
+            "1,0"
           ],
           "rowNumber": 152,
           "rowPosition": 153,
@@ -43678,7 +43678,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "20,0",
+          "cell": "1,0",
           "fieldName": "obitos_ocorridos",
           "fieldNumber": 8,
           "fieldPosition": 8,
@@ -43690,9 +43690,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "20,0",
-            "17,1",
-            "16,0"
+            "1,0",
+            "0,85",
+            "1,0"
           ],
           "rowNumber": 152,
           "rowPosition": 153,
@@ -43704,11 +43704,11 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"20,0\" in row \"153\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
+          "message": "Type error in the cell \"1,0\" in row \"153\" and field \"obitos_ocorridos\" at position \"8\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "16,0",
+          "cell": "1,0",
           "fieldName": "",
           "fieldNumber": 9,
           "fieldPosition": 10,
@@ -43720,9 +43720,9 @@
             "VIII",
             "> 34",
             "85,0",
-            "20,0",
-            "17,1",
-            "16,0"
+            "1,0",
+            "0,85",
+            "1,0"
           ],
           "rowNumber": 152,
           "rowPosition": 153,
