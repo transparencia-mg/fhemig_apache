@@ -51,7 +51,7 @@ resources:
           description: Quantidade de óbitos esperados
     scheme: file
     title: APACHE 2018
-  - description: APACHE 2019 a partir de 2019
+  - description: APACHE 2019
     dialect:
       delimiter: ;
     encoding: utf-8-sig
