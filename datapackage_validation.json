@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.648,
+  "time": 0.512,
   "errors": [],
   "tasks": [
     {
@@ -82,7 +82,7 @@
           "rows": 695
         }
       },
-      "time": 0.06,
+      "time": 0.046,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -20598,7 +20598,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2019 em diante",
+        "title": "APACHE 2019",
         "stats": {
           "hash": "",
           "bytes": 0,
@@ -20606,7 +20606,7 @@
           "rows": 0
         }
       },
-      "time": 0.052,
+      "time": 0.041,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -49640,7 +49640,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2020 a partir de 2020",
+        "description": "APACHE 2020",
         "dialect": {
           "delimiter": ";"
         },
@@ -49709,7 +49709,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2020 em diante",
+        "title": "APACHE 2020",
         "stats": {
           "hash": "7cf212954da8a9d1f751c9eaaf2a4040",
           "bytes": 26089,
@@ -49717,7 +49717,7 @@
           "rows": 656
         }
       },
-      "time": 0.058,
+      "time": 0.045,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -69062,7 +69062,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2021 a partir de 2021",
+        "description": "APACHE 2021",
         "dialect": {
           "delimiter": ";"
         },
@@ -69131,7 +69131,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2021 em diante",
+        "title": "APACHE 2021",
         "stats": {
           "hash": "df1c647d3cd2465d485b441fad63b649",
           "bytes": 26787,
@@ -69139,7 +69139,7 @@
           "rows": 673
         }
       },
-      "time": 0.058,
+      "time": 0.045,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -89151,7 +89151,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2022 a partir de 2022",
+        "description": "APACHE 2022",
         "dialect": {
           "delimiter": ";"
         },
@@ -89220,7 +89220,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2022 em diante",
+        "title": "APACHE 2022",
         "stats": {
           "hash": "d8795a3681fca2081410ec7266f4fb5c",
           "bytes": 29980,
@@ -89228,7 +89228,7 @@
           "rows": 760
         }
       },
-      "time": 0.063,
+      "time": 0.048,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -111589,7 +111589,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2023 a partir de 2023",
+        "description": "APACHE 2023",
         "dialect": {
           "delimiter": ";"
         },
@@ -111658,7 +111658,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2023 em diante",
+        "title": "APACHE 2023",
         "stats": {
           "hash": "fcfe8285f8595cab0869bed2d607c634",
           "bytes": 30400,
@@ -111666,7 +111666,7 @@
           "rows": 768
         }
       },
-      "time": 0.064,
+      "time": 0.05,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -134230,7 +134230,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2024 a partir de 2024",
+        "description": "APACHE 2024",
         "dialect": {
           "delimiter": ";"
         },
@@ -134299,7 +134299,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2024 em diante",
+        "title": "APACHE 2024",
         "stats": {
           "hash": "ca1f0ee97780ecf552bb55b3955168af",
           "bytes": 30444,
@@ -134307,7 +134307,7 @@
           "rows": 768
         }
       },
-      "time": 0.064,
+      "time": 0.049,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -156900,7 +156900,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2025 a partir de 2025",
+        "description": "APACHE 2025",
         "dialect": {
           "delimiter": ";"
         },
@@ -156967,7 +156967,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2025 em diante",
+        "title": "APACHE 2025",
         "stats": {
           "hash": "b6c15c41b82864b70a8cd1ec29730922",
           "bytes": 30362,
@@ -156975,7 +156975,7 @@
           "rows": 768
         }
       },
-      "time": 0.063,
+      "time": 0.05,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -179626,7 +179626,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2026 a partir de 2026",
+        "description": "APACHE 2026",
         "dialect": {
           "delimiter": ";"
         },
@@ -179693,7 +179693,7 @@
           ]
         },
         "scheme": "file",
-        "title": "APACHE 2026 em diante",
+        "title": "APACHE 2026",
         "stats": {
           "hash": "37c7ac75ad21cf5266cc7c5802d7514a",
           "bytes": 24862,
@@ -179701,7 +179701,7 @@
           "rows": 640
         }
       },
-      "time": 0.058,
+      "time": 0.044,
       "scope": [
         "hash-count-error",
         "byte-count-error",
