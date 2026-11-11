@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.325,
+  "time": 0.267,
   "errors": [],
   "tasks": [
     {
@@ -82,7 +82,7 @@
           "rows": 695
         }
       },
-      "time": 0.027,
+      "time": 0.024,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -20529,7 +20529,7 @@
     },
     {
       "resource": {
-        "description": "APACHE 2019 a partir de 2019",
+        "description": "APACHE 2019",
         "dialect": {
           "delimiter": ";"
         },
@@ -20606,7 +20606,7 @@
           "rows": 768
         }
       },
-      "time": 0.028,
+      "time": 0.025,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -43305,7 +43305,7 @@
           "rows": 656
         }
       },
-      "time": 0.028,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -62727,7 +62727,7 @@
           "rows": 673
         }
       },
-      "time": 0.026,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -82816,7 +82816,7 @@
           "rows": 760
         }
       },
-      "time": 0.028,
+      "time": 0.025,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -105254,7 +105254,7 @@
           "rows": 768
         }
       },
-      "time": 0.03,
+      "time": 0.025,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -127895,7 +127895,7 @@
           "rows": 768
         }
       },
-      "time": 0.029,
+      "time": 0.025,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -150563,7 +150563,7 @@
           "rows": 0
         }
       },
-      "time": 0.025,
+      "time": 0.022,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -179672,7 +179672,7 @@
           "rows": 0
         }
       },
-      "time": 0.026,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
