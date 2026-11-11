@@ -146,6 +146,506 @@
       },
       "scheme": "file",
       "title": "APACHE 2019 em diante"
+    },
+    {
+      "description": "APACHE 2020 a partir de 2020",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "apache_2020",
+      "path": "data/apache_2020.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "description": "Sigla da unidade hospitalar",
+            "title": "Unidade"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "title": "Mês",
+            "description": "Mês referente ao dado"
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "grau",
+            "type": "string",
+            "title": "Grau",
+            "description": "Grau de gravidade do paciente"
+          },
+          {
+            "name": "escore",
+            "type": "string",
+            "title": "Escore",
+            "description": "Pontuação de gravidade do paciente"
+          },
+          {
+            "name": "predicao_obito",
+            "type": "geopoint",
+            "title": "Predição de Óbito",
+            "description": "Taxa de predição de mortalidade (em pontos percentuais)"
+          },
+          {
+            "name": "saidas",
+            "type": "integer",
+            "title": "Saídas",
+            "description": "Quantidade de saídas de recém nascido"
+          },
+          {
+            "name": "obitos_ocorridos",
+            "type": "integer",
+            "title": "Óbitos Ocorridos",
+            "description": "Quantidade de óbitos ocorridos"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "APACHE 2020 em diante"
+    },
+    {
+      "description": "APACHE 2021 a partir de 2021",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "apache_2021",
+      "path": "data/apache_2021.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "description": "Sigla da unidade hospitalar",
+            "title": "Unidade"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "title": "Mês",
+            "description": "Mês referente ao dado"
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "grau",
+            "type": "string",
+            "title": "Grau",
+            "description": "Grau de gravidade do paciente"
+          },
+          {
+            "name": "escore",
+            "type": "string",
+            "title": "Escore",
+            "description": "Pontuação de gravidade do paciente"
+          },
+          {
+            "name": "predicao_obito",
+            "type": "geopoint",
+            "title": "Predição de Óbito",
+            "description": "Taxa de predição de mortalidade (em pontos percentuais)"
+          },
+          {
+            "name": "saidas",
+            "type": "integer",
+            "title": "Saídas",
+            "description": "Quantidade de saídas de recém nascido"
+          },
+          {
+            "name": "obitos_ocorridos",
+            "type": "integer",
+            "title": "Óbitos Ocorridos",
+            "description": "Quantidade de óbitos ocorridos"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "APACHE 2021 em diante"
+    },
+    {
+      "description": "APACHE 2022 a partir de 2022",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "apache_2022",
+      "path": "data/apache_2022.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "description": "Sigla da unidade hospitalar",
+            "title": "Unidade"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "title": "Mês",
+            "description": "Mês referente ao dado"
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "grau",
+            "type": "string",
+            "title": "Grau",
+            "description": "Grau de gravidade do paciente"
+          },
+          {
+            "name": "escore",
+            "type": "string",
+            "title": "Escore",
+            "description": "Pontuação de gravidade do paciente"
+          },
+          {
+            "name": "predicao_obito",
+            "type": "geopoint",
+            "title": "Predição de Óbito",
+            "description": "Taxa de predição de mortalidade (em pontos percentuais)"
+          },
+          {
+            "name": "saidas",
+            "type": "integer",
+            "title": "Saídas",
+            "description": "Quantidade de saídas de recém nascido"
+          },
+          {
+            "name": "obitos_ocorridos",
+            "type": "integer",
+            "title": "Óbitos Ocorridos",
+            "description": "Quantidade de óbitos ocorridos"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "APACHE 2022 em diante"
+    },
+    {
+      "description": "APACHE 2023 a partir de 2023",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "apache_2023",
+      "path": "data/apache_2023.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "description": "Sigla da unidade hospitalar",
+            "title": "Unidade"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "title": "Mês",
+            "description": "Mês referente ao dado"
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "grau",
+            "type": "string",
+            "title": "Grau",
+            "description": "Grau de gravidade do paciente"
+          },
+          {
+            "name": "escore",
+            "type": "string",
+            "title": "Escore",
+            "description": "Pontuação de gravidade do paciente"
+          },
+          {
+            "name": "predicao_obito",
+            "type": "geopoint",
+            "title": "Predição de Óbito",
+            "description": "Taxa de predição de mortalidade (em pontos percentuais)"
+          },
+          {
+            "name": "saidas",
+            "type": "integer",
+            "title": "Saídas",
+            "description": "Quantidade de saídas de recém nascido"
+          },
+          {
+            "name": "obitos_ocorridos",
+            "type": "integer",
+            "title": "Óbitos Ocorridos",
+            "description": "Quantidade de óbitos ocorridos"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "APACHE 2023 em diante"
+    },
+    {
+      "description": "APACHE 2024 a partir de 2024",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "apache_2024",
+      "path": "data/apache_2024.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "description": "Sigla da unidade hospitalar",
+            "title": "Unidade"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "title": "Mês",
+            "description": "Mês referente ao dado"
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "grau",
+            "type": "string",
+            "title": "Grau",
+            "description": "Grau de gravidade do paciente"
+          },
+          {
+            "name": "escore",
+            "type": "string",
+            "title": "Escore",
+            "description": "Pontuação de gravidade do paciente"
+          },
+          {
+            "name": "predicao_obito",
+            "type": "geopoint",
+            "title": "Predição de Óbito",
+            "description": "Taxa de predição de mortalidade (em pontos percentuais)"
+          },
+          {
+            "name": "saidas",
+            "type": "integer",
+            "title": "Saídas",
+            "description": "Quantidade de saídas de recém nascido"
+          },
+          {
+            "name": "obitos_ocorridos",
+            "type": "integer",
+            "title": "Óbitos Ocorridos",
+            "description": "Quantidade de óbitos ocorridos"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "APACHE 2024 em diante"
+    },
+    {
+      "description": "APACHE 2025 a partir de 2025",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "apache_2025",
+      "path": "data/apache_2025.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "title": "Unidade",
+            "description": "Sigla da unidade hospitalar"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "title": "Mês",
+            "description": "Mês referente ao dado"
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "grau",
+            "type": "string",
+            "title": "Grau",
+            "description": "Grau de gravidade do paciente"
+          },
+          {
+            "name": "score",
+            "type": "string"
+          },
+          {
+            "name": "predicao_obito",
+            "type": "geopoint",
+            "title": "Predição de Óbito",
+            "description": "Taxa de predição de mortalidade (em pontos percentuais)"
+          },
+          {
+            "name": "saidas",
+            "type": "integer",
+            "title": "Saídas",
+            "description": "Quantidade de saídas de recém nascido"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
+          },
+          {
+            "name": "obitos_ocorridos",
+            "type": "integer",
+            "title": "Óbitos Ocorridos",
+            "description": "Quantidade de óbitos ocorridos"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "APACHE 2025 em diante"
+    },
+    {
+      "description": "APACHE 2026 a partir de 2026",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "apache_2026",
+      "path": "data/apache_2026.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "unidade",
+            "type": "string",
+            "title": "Unidade",
+            "description": "Sigla da unidade hospitalar"
+          },
+          {
+            "name": "mes",
+            "type": "string",
+            "title": "Mês",
+            "description": "Mês referente ao dado"
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "Ano",
+            "description": "Ano referente ao dado"
+          },
+          {
+            "name": "grau",
+            "type": "string",
+            "title": "Grau",
+            "description": "Grau de gravidade do paciente"
+          },
+          {
+            "name": "score",
+            "type": "string"
+          },
+          {
+            "name": "predicao_obito",
+            "type": "geopoint",
+            "title": "Predição de Óbito",
+            "description": "Taxa de predição de mortalidade (em pontos percentuais)"
+          },
+          {
+            "name": "saidas",
+            "type": "integer",
+            "title": "Saídas",
+            "description": "Quantidade de saídas de recém nascido"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
+          },
+          {
+            "name": "obitos_ocorridos",
+            "type": "integer",
+            "title": "Óbitos Ocorridos",
+            "description": "Quantidade de óbitos ocorridos"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "APACHE 2026 em diante"
     }
   ],
   "title": "APACHE"
