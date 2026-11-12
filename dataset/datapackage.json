@@ -523,8 +523,8 @@
           {
             "name": "unidade",
             "type": "string",
-            "title": "Unidade",
-            "description": "Sigla da unidade hospitalar"
+            "description": "Sigla da unidade hospitalar",
+            "title": "Unidade"
           },
           {
             "name": "mes",
@@ -545,8 +545,10 @@
             "description": "Grau de gravidade do paciente"
           },
           {
-            "name": "score",
-            "type": "string"
+            "name": "escore",
+            "type": "string",
+            "title": "Escore",
+            "description": "Pontuação de gravidade do paciente"
           },
           {
             "name": "predicao_obito",
@@ -561,16 +563,16 @@
             "description": "Quantidade de saídas de recém nascido"
           },
           {
-            "name": "obitos_esperados",
-            "type": "geopoint",
-            "title": "Óbitos esperados",
-            "description": "Quantidade de óbitos esperados"
-          },
-          {
             "name": "obitos_ocorridos",
             "type": "integer",
             "title": "Óbitos Ocorridos",
             "description": "Quantidade de óbitos ocorridos"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
           }
         ]
       },
@@ -593,8 +595,8 @@
           {
             "name": "unidade",
             "type": "string",
-            "title": "Unidade",
-            "description": "Sigla da unidade hospitalar"
+            "description": "Sigla da unidade hospitalar",
+            "title": "Unidade"
           },
           {
             "name": "mes",
@@ -615,8 +617,10 @@
             "description": "Grau de gravidade do paciente"
           },
           {
-            "name": "score",
-            "type": "string"
+            "name": "escore",
+            "type": "string",
+            "title": "Escore",
+            "description": "Pontuação de gravidade do paciente"
           },
           {
             "name": "predicao_obito",
@@ -631,22 +635,21 @@
             "description": "Quantidade de saídas de recém nascido"
           },
           {
-            "name": "obitos_esperados",
-            "type": "geopoint",
-            "title": "Óbitos esperados",
-            "description": "Quantidade de óbitos esperados"
-          },
-          {
             "name": "obitos_ocorridos",
             "type": "integer",
             "title": "Óbitos Ocorridos",
             "description": "Quantidade de óbitos ocorridos"
+          },
+          {
+            "name": "obitos_esperados",
+            "type": "geopoint",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados"
           }
         ]
       },
       "scheme": "file",
       "title": "APACHE 2026"
     }
-  ],
-  "title": "APACHE"
+  ]
 }
