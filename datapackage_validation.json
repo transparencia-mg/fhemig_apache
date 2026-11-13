@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.082,
+  "time": 0.199,
   "errors": [],
   "tasks": [
     {
@@ -82,7 +82,7 @@
           "rows": 695
         }
       },
-      "time": 0.069,
+      "time": 0.047,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -20526,11 +20526,130 @@
         "errors": 704
       },
       "valid": false
+    },
+    {
+      "resource": {
+        "path": "data/apache.csv",
+        "name": "apache",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "excluir",
+              "type": "string"
+            },
+            {
+              "name": "unidade",
+              "type": "string"
+            },
+            {
+              "name": "ano",
+              "type": "string"
+            },
+            {
+              "name": "mes",
+              "type": "geopoint"
+            },
+            {
+              "name": "grau",
+              "type": "string"
+            },
+            {
+              "name": "score",
+              "type": "string"
+            },
+            {
+              "name": "predicao_obito",
+              "type": "geopoint"
+            },
+            {
+              "name": "saidas",
+              "type": "geopoint"
+            },
+            {
+              "name": "obitos_esperados",
+              "type": "string"
+            },
+            {
+              "name": "obitos_ocorridos",
+              "type": "geopoint"
+            }
+          ]
+        },
+        "title": "Insira um título humanamente legível para este recurso.",
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "stats": {
+          "hash": "2d3792f39d33a43f7e170c59187dfda2",
+          "bytes": 313129,
+          "fields": 10,
+          "rows": 6019
+        }
+      },
+      "time": 0.136,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [
+        {
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rowNumber": 6018,
+          "rowPosition": 6019,
+          "code": "blank-row",
+          "name": "Blank Row",
+          "tags": [
+            "#table",
+            "#row"
+          ],
+          "note": "",
+          "message": "Row at position \"6019\" is completely blank",
+          "description": "This row is empty. A row should contain at least one value."
+        }
+      ],
+      "stats": {
+        "errors": 1
+      },
+      "valid": false
     }
   ],
   "stats": {
-    "errors": 704,
-    "tasks": 1
+    "errors": 705,
+    "tasks": 2
   },
   "valid": false
 }
