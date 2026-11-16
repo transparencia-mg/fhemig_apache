@@ -82,4 +82,4 @@ resources:
           type: string
         - name: obitos_ocorridos
           type: geopoint
-    title: APACHE 2019 A 2026
+    title: APACHE A PARTIR DE 2019
