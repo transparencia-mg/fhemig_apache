@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.203,
+  "time": 0.271,
   "errors": [],
   "tasks": [
     {
@@ -82,7 +82,7 @@
           "rows": 695
         }
       },
-      "time": 0.049,
+      "time": 0.07,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -20583,7 +20583,7 @@
             }
           ]
         },
-        "title": "APACHE 2019 A 2026",
+        "title": "APACHE A PARTIR DE 2019",
         "stats": {
           "hash": "2d3792f39d33a43f7e170c59187dfda2",
           "bytes": 313129,
@@ -20591,7 +20591,7 @@
           "rows": 6019
         }
       },
-      "time": 0.138,
+      "time": 0.176,
       "scope": [
         "hash-count-error",
         "byte-count-error",
