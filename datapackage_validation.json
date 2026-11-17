@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.271,
+  "time": 0.14,
   "errors": [],
   "tasks": [
     {
@@ -57,7 +57,7 @@
               "name": "saidas",
               "type": "integer",
               "title": "Saídas",
-              "description": "Quantidade de saídas de recém nascido"
+              "description": "Quantidade de saídas"
             },
             {
               "name": "obitos_ocorridos",
@@ -82,7 +82,7 @@
           "rows": 695
         }
       },
-      "time": 0.07,
+      "time": 0.036,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -20591,7 +20591,7 @@
           "rows": 6019
         }
       },
-      "time": 0.176,
+      "time": 0.093,
       "scope": [
         "hash-count-error",
         "byte-count-error",
