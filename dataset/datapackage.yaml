@@ -40,7 +40,7 @@ resources:
         - name: saidas
           type: integer
           title: Saídas
-          description: Quantidade de saídas de recém nascido
+          description: Quantidade de saídas
         - name: obitos_ocorridos
           type: integer
           title: Óbitos Ocorridos
